@@ -1,0 +1,10 @@
+{
+  "Name": "Stardoodle",
+  "Author": "redacted.riri",
+  "Version": "1.0.0",
+  "Description": "Test Stardew Mod Base",
+  "UniqueID": "redacted-riri.stardoodle",
+  "EntryDll": "stardoodle.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

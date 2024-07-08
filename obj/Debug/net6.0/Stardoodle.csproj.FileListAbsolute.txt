@@ -1,0 +1,8 @@
+/home/sariahe/RiderProjects/stardoodle/bin/Debug/net6.0/Stardoodle.deps.json
+/home/sariahe/RiderProjects/stardoodle/bin/Debug/net6.0/Stardoodle.dll
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.csproj.AssemblyReference.cache
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.GeneratedMSBuildEditorConfig.editorconfig
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.AssemblyInfoInputs.cache
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.AssemblyInfo.cs
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.csproj.CoreCompileInputs.cache
+/home/sariahe/RiderProjects/stardoodle/obj/Debug/net6.0/Stardoodle.dll
